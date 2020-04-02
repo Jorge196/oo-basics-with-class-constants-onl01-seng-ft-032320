@@ -18,4 +18,7 @@ class Shoe
     BRANDS << brand
   end
 
+  Shoe.new("Uggs")
+end
+
 end
